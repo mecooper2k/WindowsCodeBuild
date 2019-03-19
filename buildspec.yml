@@ -11,7 +11,7 @@ phases:
     commands:
       - cd C:\
       - dir
-      - cd Program Files (x86)
+      - cd "Program Files (x86)"
       - dir
       - cd MSBuild
       - dir
